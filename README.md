@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_20251228_100827_100827.jpg" width="200" alt="BLE Logo">
+  <img src="IMG_20251228_100827.jpg" width="200" alt="BLE Logo">
 </p>
 
 
