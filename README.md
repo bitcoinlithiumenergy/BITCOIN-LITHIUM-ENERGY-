@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="IMG_20251228_100827.jpg" width="200" alt="BLE Logo">
+</p>
+
+<h1 align="center">BITCOIN LITHIUM ENERGY (BLE)</h1>
+
 # BITCOIN LITHIUM ENERGY (BLE)
 
 BITCOIN LITHIUM ENERGY (BLE) is a Solana-based crypto project focused on
