@@ -20,7 +20,6 @@ Bitcoin Lithium Energy aims to create a future-ready, blockchain-powered energy 
 - **Future Innovation:** Expand BLE ecosystem with multiple energy, technology, and crypto-based solutions under our company’s development vision.  
 
 ---
-
 ## Official Links
 - Token Name: Bitcoin Lithium Energy
 - Symbol: BLE
