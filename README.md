@@ -26,6 +26,11 @@ A blockchain-based project focused on green energy, EV infrastructure, and crypt
 •Enable crypto payments for real-world  use
 •Create a global crypto-based ecosystem
 
+## Token Details
+- Name: BITCOIN LITHIUM ENERGY 
+- Symbol: BLE
+- Blockchain: Solana
+- Mint Address:             AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump
 
 ## Official Links
 - Website: https://bitcoinlithiumenergy.carrd.co
