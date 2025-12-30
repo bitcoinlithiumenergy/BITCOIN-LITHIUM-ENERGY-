@@ -11,12 +11,14 @@ green energy solutions, EV charging infrastructure, and crypto-powered payments.
 
 ---
 
-## feature Project Vision
+## Feature Project Vision
 
-- Low-cost energy supply for homes
-- Company-owned EV charging points
-- Crypto payments for energy & charging
-- Green energy production and future global expansion
+- Future development of own green energy production
+- Low-cost energy supply planned for homes
+- Planned company-owned EV charging points (future phase)
+- Crypto payments for energy & EV charging services
+- Long-term vision for global clean energy infrastructure
+
 ## Token Info
 
 - **Network:** Solana  
@@ -29,10 +31,10 @@ green energy solutions, EV charging infrastructure, and crypto-powered payments.
 ## Official Links
 
 - **Website & White Paper:** [https://bitcoinlithiumenergy.carrd.co](https://bitcoinlithiumenergy.carrd.co)  
-- **Telegram:** [https://t.me/BLE108](https://t.me/BLE108)  
-- **Twitter (X):** [https://x.com/BITCOINLTENG](https://x.com/BITCOINLTENG)  
+- **Telegram:** [https://t.me/BLE108] 
+- **Twitter (X):** [https://x.com/@BITCOINLTENG]
 - **Solscan:** [View BLE Token](https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump)  
-- **GitHub Repo:** [Project Repository](https://github.com/bitcoinlithiumenergy/BITCOIN-LITHIUM-ENERGY-)
+- **GitHub Repo:** [Project Repository](https://github.com/bitcoinlithiumenergy
 
 ---
 
