@@ -8,7 +8,7 @@
 
 ---
 
-## Project Vision
+## Feature Project Vision
 
 Bitcoin Lithium Energy aims to create a future-ready, blockchain-powered energy ecosystem:
 
