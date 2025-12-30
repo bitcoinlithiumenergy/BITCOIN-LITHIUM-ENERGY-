@@ -9,34 +9,41 @@ energy solutions.
 1️⃣ Project Name & Short Intro
 Bitcoin Lithium Energy (BLE)
 A blockchain-based project focused on green energy, EV infrastructure, and crypto payments.
+
 2️⃣ Vision
 •Build low-cost green energy solutions
 •Support homes and EV charging
 •Enable crypto payments for real-world  use
 •Create a global crypto-based ecosystem
+
 3️⃣ Key Use Cases
 ⚡ Low-cost energy supply (future)
 🚗 BLE-owned EV charging points
 💳 Crypto payment acceptance
 🌱 Renewable & lithium-based energy concepts
+
 4️⃣ Crypto Payment System
 •Borderless digital payments
 •Fast & transparent blockchain          transactions
 •Global usability without banking       limits
+
 5️⃣ Development Focus
 •Own green energy development
 •Step-by-step feature rollout
 •Community-driven growth
 •Long-term sustainability
+
 6️⃣ Transparency
 •Built on Solana
 •Public on-chain data (Solscan)
 •Fair launch mechanism
 •Open community communication
+
 7️⃣ Roadmap (Simple)
 •Phase 1: Token launch & community      building
 •Phase 2: EV & energy concept           development
 •Phase 3: Crypto payment adoption &     expansion
+ 
  8️⃣ Disclaimer
 Cryptocurrency projects involve risk.
 This project is under active   development.
