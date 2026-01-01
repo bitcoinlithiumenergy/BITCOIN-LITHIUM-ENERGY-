@@ -16,10 +16,10 @@ The project explores clean energy concepts, renewable energy generation vision, 
 
 ## 🌍 Sustainability Commitment
 
-• Reduced environmental impact
-• Support for renewable energy adoption
-• Efficient energy usage concepts
-• Alignment with future ESG-oriented     standards.
+-• Reduced environmental impact
+-• Support for renewable energy adoption
+-• Efficient energy usage concepts
+-• Alignment with future ESG-oriented     standards.
 
 ## 📌 Status
 This project is in early development and roadmap phases.  
