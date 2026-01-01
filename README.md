@@ -4,17 +4,22 @@
 
 Bitcoin Lithium Energy (BLE) is a long‑term digital energy project focused on sustainable innovation and future‑ready utility solutions.
 
+The project explores clean energy concepts, renewable energy generation vision, residential energy efficiency ideas, and EV charging infrastructure concepts.
+
 ## 🌱 Vision & Utility
 
 - ♻️ Green & sustainable energy initiatives *(future phase)*
-- 🔋 Own green energy generation *(solar / renewable‑focused vision)*
+- 🔋 Own green energy generation *(solar / wind-renewable‑focused vision)*
 - 🏠 Affordable and efficient energy solutions for homes
 - 🚗⚡ Future EV charging infrastructure projects 
 - 💳 Crypto‑powered energy payments using **$BLE**
 
-## 🚀 Mission
+## 🌍 Sustainability Commitment
 
-To bridge clean energy concepts with digital utility, enabling transparent, scalable, and future‑oriented energy solutions.
+• Reduced environmental impact
+• Support for renewable energy adoption
+• Efficient energy usage concepts
+• Alignment with future ESG-oriented     standards.
 
 ## 📌 Status
 This project is in early development and roadmap phases.  
