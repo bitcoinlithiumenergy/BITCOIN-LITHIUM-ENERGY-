@@ -21,8 +21,8 @@ To bridge clean energy concepts with digital utility, enabling transparent, scal
 This project is in early development and roadmap phases.  
 Features and utilities will be rolled out progressively.
 
-## 🤝 Community
 
+## 🤝 Community
 ## 🔗 Official Links
 
 - **Website & Whitepaper:** https://bitcoinlithiumenergy.carrd.co  
