@@ -74,7 +74,7 @@ This project is focused on **energy + blockchain utilities**, not wireless techn
 
 Bitcoin Lithium Energy (BLE) is under active development.  
 All information represents **future plans and vision** and does **not** constitute financial advice.  
-Always **DYOR**.
+Always **DYOR*.
 
 
 
