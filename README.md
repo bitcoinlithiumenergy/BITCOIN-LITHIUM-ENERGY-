@@ -70,11 +70,14 @@ This project is focused on **energy + blockchain utilities**, not wireless techn
 
 ---
 
-## 📢 Disclaimer
+## ⚠️ Disclaimer
 
-Bitcoin Lithium Energy (BLE) is under active development.  
-All information represents **future plans and vision** and does **not** constitute financial advice.  
-Always **DYOR*.
+This website and all related materials are provided for informational purposes only and describe the vision, technology, and development goals of Bitcoin Lithium Energy (BLE).
+Bitcoin Lithium Energy (BLE) is a long-term, utility-focused blockchain project under active development.
+All statements regarding future features, energy solutions, infrastructure, or ecosystem growth represent planned objectives, not guarantees.
+Nothing on this website should be considered financial, investment, legal, or tax advice.
+Participants and community members are encouraged to conduct their own independent research (DYOR) before making any decisions.
+The BLE token is designed for future ecosystem utility, including payments and access to services, and not as a promise of profit.
 
 
 
