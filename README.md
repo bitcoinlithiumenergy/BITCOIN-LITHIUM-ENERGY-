@@ -15,11 +15,11 @@ BLE is designed as a utility-focused digital project and does not represent an i
 
 ## 🌱 Vision & Utility
 
-- ♻️ Green & sustainable energy initiatives *(future phase)*
-- 🔋 Own green energy generation *(solar / wind-renewable‑focused vision)*
-- 🏠 Affordable and efficient energy solutions for homes
-- 🚗⚡ Future EV charging infrastructure projects 
-- 💳 Crypto‑powered energy payments using **$BLE**
+-  ♻️ Green & sustainable energy          initiatives (future phase)
+-  🔋 Planned green energy generation     (solar & wind-focused vision)
+-  🏠 Affordable and efficient energy     solutions for homes (future scope)
+-  🚗⚡ Planned EV charging               infrastructure projects
+-  💳 Crypto-powered energy payments      using $BLE (future ecosystem-          utility)
 
 ## 🌍 Sustainability Commitment
 
