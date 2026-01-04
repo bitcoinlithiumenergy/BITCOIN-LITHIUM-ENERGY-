@@ -15,7 +15,7 @@ Note: BLE focuses on energy innovation, not on speculation. It is a utility-focu
 ## 🌱 Vision & Utility
 
 -  ♻️ Green & sustainable energy           initiatives (future phase)
--  🔋 Planned green energy generation     (solar & wind-focused vision)
+-  🔋 Planned green energy generation      (solar & wind-focused vision),         including exploration of high-         efficiency solar panel technology      capable of operating in low-light      environments to improve energy         reliability and accessibility.
 -  🏠 Affordable and efficient energy     solutions for homes (future scope)
 -  🚗⚡ Planned EV charging               infrastructure projects
 -  💳 Crypto-powered energy payments      using $BLE (future ecosystem-          utility)
